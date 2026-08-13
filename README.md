@@ -9,10 +9,10 @@ The project provides complete **CRUD operations** for managing student records a
 ## 🌐 Live Application
 
 🔗 **Frontend:**
-`YOUR_FRONTEND_RENDER_URL`
+https://studentmanagementdeployed.netlify.app/
 
 🔗 **Backend API:**
-`YOUR_BACKEND_RENDER_URL`
+https://studentmanagement-2-6a8o.onrender.com
 
 ---
 
